@@ -8,3 +8,5 @@ iterative-stratification
 tqdm
 openpyxl
 matplotlib
+fastapi
+uvicorn
