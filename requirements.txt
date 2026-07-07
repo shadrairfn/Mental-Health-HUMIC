@@ -1,0 +1,10 @@
+numpy
+pandas
+torch
+transformers
+datasets
+scikit-learn
+iterative-stratification
+tqdm
+openpyxl
+matplotlib

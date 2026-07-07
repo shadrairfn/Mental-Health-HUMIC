@@ -1,0 +1,5 @@
+weight/
+*.bin
+*.safetensors
+*.pt
+diagram_alur_penelitian.md
